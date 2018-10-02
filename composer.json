@@ -1,5 +1,5 @@
 {
-  "name": "firesphere/graphql-jwt",
+  "name": "ec8or/graphql-jwt",
   "description": "JWT Authentication for GraphQL",
   "type": "silverstripe-vendormodule",
   "license": "bsd-3-clause",
